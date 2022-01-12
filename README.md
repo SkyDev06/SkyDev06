@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img src="">
+<img src="https://discord.c99.nl/widget/theme-3/913359644477493258.png">
 <div align="center">
