@@ -60,15 +60,6 @@
 
 ---
 
-## 🔥 Featured Project
-<p align="center">
-  <a href="https://github.com/SkyDev06">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkyDev06&repo=your-repo-name&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 🎯 Current Goals
 - 🚀 Build scalable backend infrastructure  
 - 🌐 Create real-time multiplayer systems  
