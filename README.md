@@ -53,13 +53,6 @@
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SkyDev06&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🎯 Current Goals
 - 🚀 Build scalable backend infrastructure  
 - 🌐 Create real-time multiplayer systems  
