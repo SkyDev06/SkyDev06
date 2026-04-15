@@ -1,44 +1,63 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi there! Welcome to My GitHub Profile
+  👋 Hi, I'm SkyDev06
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=00BFFF&width=435&lines=Passionate+Developer+under+the+Sky!;Exploring+new+technologies...;Coding+with+endless+possibilities!" alt="Typing SVG" />
+  <b>🚀 Passionate Developer | 💡 Problem Solver | 🎮 Gamer</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=500&lines=Building+cool+things+with+code;Node.js+%7C+C%2B%2B+Developer;Always+learning+new+tech..." />
 </p>
 
 ---
 
-## ☁️ About Me
-- 🌌 Dreaming beyond the stars  
-- 🌱 Currently learning **Node.js, C++, and more**  
-- 💬 Ask me about **coding, gaming, and tech**  
-- 📫 Contact: [📧 Email](mailto:adipofficial@gmail.com)
+## 🧠 About Me
+- 🌌 Love exploring technology & building systems  
+- ⚡ Focus on **Node.js, C++, Networking**  
+- 🎮 Into **game systems & multiplayer logic**  
+- 💬 Open to discuss **projects, ideas, or tech stuff**  
+
+📫 **Reach me:** [📧 Email](mailto:adipofficial@gmail.com)
 
 ---
 
-## 🚀 Tech Stack
+## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-00BFFF?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,cpp,js,git,linux,vscode" />
 </p>
 
 ---
 
-## 🌌 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SkyDev06&show_icons=true&theme=blueberry" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SkyDev06&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkyDev06&theme=blueberry" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkyDev06&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
+## 🔥 Featured Projects
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="200px"/>
+  <a href="https://github.com/SkyDev06">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkyDev06&repo=your-repo-name&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ---
 
+## 🎯 Current Goals
+- 🚀 Build scalable backend systems  
+- 🌐 Create multiplayer/game infrastructure  
+- 💰 Develop projects that generate income  
+
+---
+
 <p align="center">
-  ⭐️ Keep building. Keep exploring. Keep looking at the sky ☁️✨
+  <img src="https://komarev.com/ghpvc/?username=SkyDev06&color=blue&style=flat-square" />
+</p>
+
+<p align="center">
+  ⭐️ <i>“Code. Build. Repeat.”</i>
 </p>
