@@ -9,17 +9,17 @@
 ---
 
 ## ☁️ About Me
-- 🌌 Dreaming beyond the stars
-- 🌱 I’m learning **Node.js, C++, and more!**
-- 💬 Ask me about **coding, gaming, and tech stuff**
-- 📫 Reach me at: [Email](mailto:adipofficial@gmail.com)
-  
+- 🌌 Dreaming beyond the stars  
+- 🌱 Currently learning **Node.js, C++, and more**  
+- 💬 Ask me about **coding, gaming, and tech**  
+- 📫 Contact: [📧 Email](mailto:adipofficial@gmail.com)
+
 ---
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&color=00BFFF" />
-  <img src="https://img.shields.io/badge/Code-C%2B%2B-informational?style=for-the-badge&logo=c%2B%2B&color=blue" />
+  <img src="https://img.shields.io/badge/Node.js-00BFFF?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ---
@@ -27,20 +27,18 @@
 ## 🌌 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SkyDev06&show_icons=true&theme=blueberry" />
-  <br>
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkyDev06&theme=blueberry" />
 </p>
 
 ---
 
-## 🎵 Now Playing
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4b2un9wt4r3xmr91zlnhakpc5&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
-</p>
-
----
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="200px"/>
 </p>
 
-⭐️ Feel free to customize this as you like! Keep looking at the sky! ☁️✨
+---
+
+<p align="center">
+  ⭐️ Keep building. Keep exploring. Keep looking at the sky ☁️✨
+</p>
